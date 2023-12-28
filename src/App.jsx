@@ -1,6 +1,6 @@
 
 import './App.css'
-import Hero from './component/kitas'
+import Hero from './component/Kitas.jsx'
 
 function App() {
   return (
