@@ -54,12 +54,12 @@ const Image = ({ img, title }) => {
 };
 
 const imagesData = [
-  { img: 'src/Img/m1.jpg', title: 'Ipsum Feugiat' },
-  { img: 'src/Img/m2.jpg', title: 'Ipsum Feugiat' },
-  { img: 'src/Img/m3.jpg', title: 'Ipsum Feugiat' },
-  { img: 'src/Img/m1.jpg', title: 'Ipsum Feugiat' },
-  { img: 'src/Img/m2.jpg', title: 'Ipsum Feugiat' },
-  { img: 'src/Img/m3.jpg', title: 'Ipsum Feugiat' },
+  { img: './src/Img/m1.jpg', title: 'Ipsum Feugiat' },
+  { img: './src/Img/m2.jpg', title: 'Ipsum Feugiat' },
+  { img: './src/Img/m3.jpg', title: 'Ipsum Feugiat' },
+  { img: './src/Img/m1.jpg', title: 'Ipsum Feugiat' },
+  { img: './src/Img/m2.jpg', title: 'Ipsum Feugiat' },
+  { img: './src/Img/m3.jpg', title: 'Ipsum Feugiat' },
 ];
 
 const imageComponents = imagesData.map((data, index) => (
