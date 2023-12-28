@@ -1,0 +1,21 @@
+
+
+#root{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: gray;
+    width: 85%;
+}
+#image{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+ align-items: center;
+text-align: center;
+gap: 10px;
+/* margin: 10px; */
+/* width: 50%; */
+}
